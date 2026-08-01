@@ -1,0 +1,35 @@
+# Deep learning / core
+torch
+torchvision
+torchmetrics
+lightning>=2.0
+monai
+timm
+transformers
+
+# Configuration
+mmengine
+typing_extensions
+
+# Medical imaging / data
+nibabel
+SimpleITK
+pydicom
+antspyx
+opencv-python
+Pillow
+scipy
+scikit-learn
+numpy
+pandas
+
+# LLM / reporting
+openai
+google-generativeai
+
+# Utilities
+mpire
+redis
+tqdm
+matplotlib
+fire
