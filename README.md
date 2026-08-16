@@ -1,4 +1,4 @@
-# MammoCBM: A Multiparameter Concept-Based Interpretable Model for Early Breast Cancer Diagnosis and Structured Reporting
+# MammoCBM: Multiparameter concept-based interpretable model for early breast cancer diagnosis and structured reporting: a multi-center, multi-reader, radiologist-in-the-loop study
 
 This is the official repository for the paper **"Multiparameter concept-based interpretable model for early breast cancer diagnosis and structured reporting: a multi-center, multi-reader, radiologist-in-the-loop study"** (BMC Medicine, 2026).
 
